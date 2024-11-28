@@ -1,3 +1,9 @@
+# PRIMERA SESION DE GIT
+---
+* Fecha: 27/11/2024
+---
+**Contenido del Readme.md archivos de prueba**
+
 Mi nombre es Alexander Valdez
 
 Me gusta leer libros de politica y en 
