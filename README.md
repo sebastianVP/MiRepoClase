@@ -13,3 +13,4 @@ Mi comida favorita es la jalea mixta.
 
 
 NUEVO UPDATE ULTIMA MODIFICACION
+NUEVO UPDATE DESDE UBUNTU22.04
